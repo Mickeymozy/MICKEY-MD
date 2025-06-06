@@ -5,7 +5,7 @@ const AntiDelDB = DATABASE.define('AntiDelete', {
     id: {
         type: DataTypes.INTEGER,
         primaryKey: true,
-        autoIncrement: false,
+        autoIncrement: true,
         defaultValue: 1,
     },
     gc_status: {
