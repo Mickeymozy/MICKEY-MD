@@ -39,7 +39,7 @@ ${truncatedCode}
 \`\`\`
 ╰──────────⊷  
 ⚡ Full file sent below 📂  
-*©𝙿𝙾𝚆𝙴𝚁𝙴𝙳 𝙱𝚈 𝚃𝙾𝙷𝙸𝙳_𝙼𝙳* 💜`;
+*©POWERED BY MICKEY-MD* 💜`;
 
         // Send image with truncated source code
         await conn.sendMessage(from, { 
@@ -47,12 +47,12 @@ ${truncatedCode}
             caption: formattedCode,
             contextInfo: {
                 mentionedJid: [m.sender],
-                forwardingScore: 999,
-                isForwarded: true,
-                forwardedNewsletterMessageInfo: {
-                    newsletterJid: '120363207624903731@newsletter',
-                    newsletterName: '𝐓𝐎𝐇𝐈𝐃 𝐓𝐄𝐂𝐇 🤖',
-                    serverMessageId: 143
+            forwardingScore: 999,
+            isForwarded: true,
+            forwardedNewsletterMessageInfo: {
+                newsletterJid: '120363314875614529@newsletter',
+                newsletterName: config.OWNER_NAME,
+                serverMessageId: 143
                 }
             }
         }, { quoted: mek });
