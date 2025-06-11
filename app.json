@@ -1,7 +1,7 @@
 {
-  "name": "TOHID_MD",
+  "name": "MICKEY-MD",
   "description": "Javascript WhatsApp bot made by MR TOHID",
-  "logo": "https://i.ibb.co/4ZSYvPTq/lordali.jpg",
+  "logo": "https://files.catbox.moe/x5on0z.jpg",
   "keywords": ["TOHID_MD"],
   "success_url": "/",
 
@@ -78,27 +78,27 @@
     "AUTO_STATUS_MSG": {
       "description": "Type custom message on status reply",
       "required": true,
-      "value": "*SEEN YOUR STATUS BY TOHID_MD 🇮🇳*"
+      "value": "*SEEN BY MICKEY-MD*"
    
      }, 
     
     "OWNER_NAME": {
       "description": "Type Bot Owner Name.",
       "required": false,
-      "value": "Mr Tohid"
+      "value": "Mr Mickey"
 }, 
 
     "OWNER_NUMBER": {
       "description": "put the owner number for bot.",
       "required": false,
-      "value": "917849917350"
+      "value": "255612130873"
 
     }, 
 
     "BOT_NAME": {
       "description": "Type here the bot name.",
       "required": false,
-      "value": "TOHID_MD"
+      "value": "MICKEY-MD"
 
       }, 
 
@@ -112,7 +112,7 @@
      "ANTI_LINK_KICK": {
       "description": "Make it true if you want bot auto remove group link.",
       "required": true,
-      "value": "false"
+      "value": "true"
       
     },
     
@@ -131,19 +131,19 @@
     "MENU_IMAGE_URL": {
       "description": "add url for mention reply and menu if want.",
       "required": false,
-      "value": "https://i.ibb.co/4ZSYvPTq/lordali.jpg"
+      "value": "https://files.catbox.moe/x5on0z.jpg"
     },
     
      "DESCRIPTION": {
       "description": "add caption for menu and other",
       "required": false,
-      "value": "*©𝙿𝙾𝚆𝙴𝚁𝙴𝙳 𝙱𝚈 𝚃𝙾𝙷𝙸𝙳_𝙼𝙳*"
+      "value": "*©POWERED BY MICKEY*"
     },
 
       "DELETE_LINKS": {
       "description": "remove links from group automatically without removing member",
       "required": false,
-      "value": "false"
+      "value": "true"
     },
     
     "AUTO_RECORDING": {
@@ -192,7 +192,7 @@
     "WELCOME": {
       "description": "make it true if want goodbye and welcome message in groups.",
       "required": false,
-      "value": "true"
+      "value": "false"
     },
 
     "READ_MESSAGE": {
