@@ -171,15 +171,15 @@ ${repoData.description || 'No description provided'}
 
         // Send image with repo info
         await conn.sendMessage(from, {
-            image: { url: config.MENU_IMAGE_URL || 'https://i.ibb.co/HpGFPCTV/lordali.jpg' },
+            image: { url: config.MENU_IMAGE_URL || 'https://files.catbox.moe/m4k6wp.jpg' },
             caption: selectedStyle,
             contextInfo: { 
                 mentionedJid: [m.sender],
                 forwardingScore: 999,
                 isForwarded: true,
                 forwardedNewsletterMessageInfo: {
-                    newsletterJid: '120363207624903731@newsletter',
-                    newsletterName: config.OWNER_NAME || '𝐓𝐎𝐇𝐈𝐃 𝐓𝐄𝐂𝐇 🤖',
+                    newsletterJid: '120363314875614529@newsletter',
+                    newsletterName: config.OWNER_NAME || 'MICKEY-MD',
                     serverMessageId: 143
                 }
             }
