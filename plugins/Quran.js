@@ -1,4 +1,5 @@
 const fetch = require('node-fetch'); 
+const config = require('../config');
 const { cmd, commands } = require('../command');
 const { fetchJson } = require('../lib/functions');
 const { translate } = require('@vitalets/google-translate-api');
