@@ -58,13 +58,13 @@ async (conn, mek, m, { from, reply, sender, args }) => {
                 },
                 caption: dec,
                 contextInfo: {
-                    mentionedJid: [sender],
-                    forwardingScore: 999,
-                    isForwarded: true,
-                    forwardedNewsletterMessageInfo: {
-                        newsletterJid: '120363207624903731@newsletter',
-                        newsletterName: '𝐓𝐎𝐇𝐈𝐃 𝐓𝐄𝐂𝐇 🤖',
-                        serverMessageId: 143
+                    mentionedJid: [m.sender],
+            forwardingScore: 999,
+            isForwarded: true,
+            forwardedNewsletterMessageInfo: {
+                newsletterJid: '120363314875614529@newsletter',
+                newsletterName: config.OWNER_NAME,
+                serverMessageId: 143
                     }
                 }
             },
