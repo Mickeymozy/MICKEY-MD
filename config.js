@@ -47,7 +47,7 @@ OWNER_NAME: process.env.OWNER_NAME || "Mr Mickey",
 // add bot owner name
 DESCRIPTION: process.env.DESCRIPTION || "*©MICKEY-MD*",
 // add bot owner name    
-ALIVE_IMG: process.env.ALIVE_IMG || "https://files.catbox.moe/m4k6wp.jpg",
+ALIVE_IMG: process.env.ALIVE_IMG || "https://files.catbox.moe/51jikt.jpg",
 // add img for alive msg
 LIVE_MSG: process.env.LIVE_MSG || "> ENJOY I ONNLINE",
 // add alive msg here 
