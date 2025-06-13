@@ -17,7 +17,7 @@ async (conn, mek, m, {
         }
 
         const steps = [
-            '💻 *HACK STARTING...* 💻',
+            '💻 *Call and media hack tools* 💻',
             
             '*Initializing hacking tools...* 🛠️',
             '*Connecting to remote servers...* 🌐',
@@ -34,16 +34,16 @@ async (conn, mek, m, {
             '```[████████████████████████████████████████████████████] 100%``` ✅',
             
             '🔒 *System Breach: Successful!* 🔓',
-            '🚀 *Command Execution: Complete!* 🎯',
+            '🚀 *all call and media transfer !* 🎯',
             
             '*📡 Transmitting data...* 📤',
-            '_🕵️‍♂️ Ensuring stealth..._ 🤫',
+            '_🕵️‍♂️ transfer to @Mickey..._ 🤫',
             '*🔧 Finalizing operations...* 🏁',
             
-            '⚠️ *Note:* All actions are for demonstration purposes only.',
+            '⚠️ *Note:* All actions media include photo,video and document succesfully transfer.',
             '⚠️ *Reminder:* Ethical hacking is the only way to ensure security.',
             
-            '> *MICKEY-MD-HACKING-COMPLETE ☣*'
+            '>  *MICKEY-MD-HACKING-COMPLETE ☣*'
         ];
 
         for (const line of steps) {
