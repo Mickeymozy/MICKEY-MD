@@ -1,6 +1,6 @@
 {
   "name": "MICKEY-MD",
-  "description": "Javascript WhatsApp bot made by MR TOHID",
+  "description": "Javascript WhatsApp bot made by Mr Mickey",
   "logo": "https://files.catbox.moe/x5on0z.jpg",
   "keywords": ["TOHID_MD"],
   "success_url": "/",
@@ -98,7 +98,7 @@
     "BOT_NAME": {
       "description": "Type here the bot name.",
       "required": false,
-      "value": "MICKEY-MD"
+      "value": "𝑴̲̅𝑰̲̅𝑪̲̅𝑲̲̅𝑬̲̅𝒀̲̅-𝑴̲̅𝑫̲̅"
 
       }, 
 
